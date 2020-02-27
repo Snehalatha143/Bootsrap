@@ -1,0 +1,166 @@
+#header-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#menubody-container{
+    display: flex;
+    justify-content: space-between;
+    background-color: papayawhip;
+}
+#menubody-container2{
+    display: flex;
+    justify-content: space-between;
+    background-color: papayawhip;
+}
+#foot{
+    width: 100%;
+    padding-left: 10px;
+    border: top 1px solid gray;
+    background-color:lightgray
+}
+#big-image{
+    width: 100%;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    background-color:lightgoldenrodyellow;
+}
+.search{
+    width: 60%;
+    margin-right: 500px;
+    font-size: 25px;
+    display: flex;
+    margin-left: 20px;
+    justify-content: space-between;
+}
+#menu-container{
+    padding-left: 20rem;
+}
+#Meat{
+
+    margin-right: 5rem;
+}
+#living{
+    margin-right: 5rem;
+}
+#health{
+    margin-right: 5rem;
+}
+#Beauty{
+    margin-right: 5rem;
+}
+#Heading{
+    color:lightcoral;
+    text-align: center;
+    border-bottom: 1px solid gray;
+}
+#footer{
+    border-bottom: 1px solid gray;
+}
+#potato{
+    border:1px solid gray;
+    width: 20%;
+    margin-top: 10px;
+    text-align: center;
+}
+#Onion{
+    border:1px solid gray;
+    width: 20%;
+    margin-top: 10px;
+    text-align: center;   
+    margin-left: 5px;
+}
+#Tomato{
+    border:1px solid gray;
+    width: 20%;
+    margin-top: 10px;
+    text-align: center;
+    margin-left: 5px;
+}
+#Carrot{
+    border:1px solid gray;
+    width: 20%;
+    margin-top: 10px;
+    text-align: center; 
+    margin-left: 5px;
+}
+#Capsicum{
+    border:1px solid gray;
+    width: 20%;
+    margin-top: 10px;
+    text-align: center; 
+    margin-left: 5px;
+}
+#Cucumber{
+    border:1px solid gray;
+    width: 20%;
+    margin-top: 10px;
+    text-align: center; 
+    margin-left: 5px;
+}
+#Beetroot{
+    border:1px solid gray;
+    width: 20%;
+    margin-top: 10px;
+    text-align: center; 
+    margin-left: 5px;
+}
+#Spinach{
+    border:1px solid gray;
+    width: 20%;
+    margin-top: 10px;
+    text-align: center; 
+    margin-left: 5px;
+}
+#Coccinia{
+    border:1px solid gray;
+    width: 20%;
+    margin-top: 10px;
+    text-align: center; 
+    margin-left: 5px;
+}
+#Mushrooms{
+    border:1px solid gray;
+    width: 20%;
+    margin-top: 10px;
+    text-align: center; 
+    margin-left: 5px;
+}
+.veggie1{
+    width: 70%;
+}
+.veggie2{
+    width: 70%;
+}
+.veggie3{
+    width: 70%;
+}
+.veggie4{
+    width: 70%;
+}
+.veggie5{
+    width: 70%;
+}
+.veggie6{
+    width: 70%;
+}
+.veggie7{
+    width: 70%;
+}
+.veggie8{
+    width: 70%;
+}
+.veggie9{
+    width: 70%;
+}
+.veggie10{
+    width: 70%;
+}
+.links1{
+    border-top: 1px solid gray;
+    margin-top: 10px;
+}
+.links2{
+
+}
